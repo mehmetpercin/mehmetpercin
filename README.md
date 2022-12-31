@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @mehmetpercin
 - 👀 I’m interested in **.NET** Technologies
 - 🌱 I’m currently learning **Kubernetes** and **Microservice Architecture**
-- 💞️ I’m looking to collaborate on **.NET**
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mehmetpercin&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MehmetPercin" width="700"/>
